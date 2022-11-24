@@ -1,0 +1,5 @@
+eat,high
+eat,high
+run,medium
+eat,high
+run,low
